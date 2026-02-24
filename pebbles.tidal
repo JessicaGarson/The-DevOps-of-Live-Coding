@@ -1,0 +1,7 @@
+setcps 3
+
+d1 $ "nyusergemessica:1" # djf 0.8 # leslie 0.9 # phaserrate 1.3 # detune 0.9 # distort 2.3
+
+d2 $ "nyudeckardsdream1" # room 0.3 # triode 3.3 # shape 0.3 # scram 2.2
+
+d3 $ "nyusergesimple:3" # krush 2 # crush 2 # waveloss 0.2 # leslie 0.2
