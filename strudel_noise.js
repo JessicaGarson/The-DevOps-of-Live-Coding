@@ -1,0 +1,1 @@
+s("white").gain(5).distort(slider(0,0,10)).scope()
