@@ -1,0 +1,1 @@
+voronoi(8, 2, 2).modulate(o0,1).add(o0,0.8).scrollY(-0.02).scale(1).modulate(noise(8,1),0.008).luma(0.3).saturate(0.2).out()
