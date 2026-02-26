@@ -15,7 +15,8 @@ s.boot;
 
 s.quit;
 
-/* Boot + confirm device */
+// Boot + confirm device 
+
 (
 s.boot;
 
