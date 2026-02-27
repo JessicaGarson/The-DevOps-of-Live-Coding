@@ -59,7 +59,8 @@ You can find the [slides from this talk on Canva](https://www.canva.com/design/D
 - [Estuary](https://estuary.mcmaster.ca/)
 - [Nudel](https://nudel.cc/)
 
-## Learning more 
+## Learning more
+- [Livecode NYC](https://livecode.nyc)
 - [Awesome Livecoding](https://github.com/toplap/awesome-livecoding)
 - [STRUDEL FOR BEGINNERS](https://www.youtube.com/watch?v=m7Rp46AU8dw)
 - [Tidal Cycles Workshop](https://tidalcycles.org/docs/patternlib/tutorials/workshop)
