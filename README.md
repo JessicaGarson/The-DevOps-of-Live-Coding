@@ -41,7 +41,6 @@ You can find the [slides from this talk on Canva](https://www.canva.com/design/D
 - [Scream.py](https://github.com/JessicaGarson/scream.py)
 - [The pd patch I use created by Andy Borsz](https://github.com/biscuitvile/pd/blob/main/patches/memory-slider-deck.pd)
 - [My Eurorack setup](https://www.modulargrid.net/e/racks/view/2202710)
-- [Ableton Live - used for recording only](https://www.ableton.com/en/live/)
 - [Fort Reno](https://github.com/JessicaGarson/fort-reno)
 
 ## Where to find my art
