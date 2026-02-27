@@ -1,5 +1,13 @@
 # The DevOps of Live Coding
+For the past decade, I’ve created live-coded music and audio-reactive visual art under the name Messica Arson. This repository accompanies a talk about the tools, systems, failures, and practical strategies that have shaped that work.
 
+This talk covers: 
+
+- The tools I use for live-coded sound and visuals
+- How I design creative systems for performance
+- Building reliability into artistic workflows
+- Failure points (technical, environmental, human)
+- Practical troubleshooting strategies
 
 ## History of live coding
 - [Origins of live coding - Nick Collins](https://composerprogrammer.com/research/originsoflivecoding.pdf)
@@ -32,3 +40,11 @@
 - [My Eurorack setup](https://www.modulargrid.net/e/racks/view/2202710)
 - [Ableton Live - used for recording only](https://www.ableton.com/en/live/)
 - [Fort Reno](https://github.com/JessicaGarson/fort-reno)
+
+## Live coders that inspire me 
+- [Sarah Groff Hennigh-Palermo](https://sarahghp.com/)
+- [Kate Sicchio](https://www.sicchio.com/)
+- [Antonio Roberts](https://www.hellocatfood.com/)
+- [c_robo](https://c-robo.bandcamp.com/)
+- [Reckoner](https://reckoner.space/)
+- [Cameron Alexander](https://emptyfla.sh/)
