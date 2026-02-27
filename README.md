@@ -9,6 +9,9 @@ This talk covers:
 - Failure points (technical, environmental, human)
 - Practical troubleshooting strategies
 
+## Slides
+You can find the [slides from this talk on Canva](https://www.canva.com/design/DAHCQo91juA/88tyUM9QAzu9vk4zXnslsg/view?utm_content=DAHCQo91juA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6bd02ca3d3).
+
 ## History of live coding
 - [Origins of live coding - Nick Collins](https://composerprogrammer.com/research/originsoflivecoding.pdf)
 - [Historical Live Coding](https://toplap.org/wiki/HistoricalPerformances)
