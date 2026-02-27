@@ -41,7 +41,7 @@ This talk covers:
 - [Ableton Live - used for recording only](https://www.ableton.com/en/live/)
 - [Fort Reno](https://github.com/JessicaGarson/fort-reno)
 
-## Where to find my music
+## Where to find my art
 - [Music links](https://linktr.ee/messicaarson)
 
 ## Live coders that inspire me 
