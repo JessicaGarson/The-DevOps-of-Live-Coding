@@ -52,6 +52,11 @@ This talk covers:
 - [Reckoner](https://reckoner.space/)
 - [Cameron Alexander](https://emptyfla.sh/)
 
+## Collaborative live coding 
+- [Flok](https://flok.cc/)
+- [Estuary](https://estuary.mcmaster.ca/)
+- [Nudel](https://nudel.cc/)
+
 ## Learning more 
 - [Awesome Livecoding](https://github.com/toplap/awesome-livecoding)
 - [STRUDEL FOR BEGINNERS](https://www.youtube.com/watch?v=m7Rp46AU8dw)
