@@ -41,6 +41,9 @@ This talk covers:
 - [Ableton Live - used for recording only](https://www.ableton.com/en/live/)
 - [Fort Reno](https://github.com/JessicaGarson/fort-reno)
 
+## Where to find my music
+- [Music links](https://linktr.ee/messicaarson)
+
 ## Live coders that inspire me 
 - [Sarah Groff Hennigh-Palermo](https://sarahghp.com/)
 - [Kate Sicchio](https://www.sicchio.com/)
@@ -48,3 +51,11 @@ This talk covers:
 - [c_robo](https://c-robo.bandcamp.com/)
 - [Reckoner](https://reckoner.space/)
 - [Cameron Alexander](https://emptyfla.sh/)
+
+## Learning more 
+- [Awesome Livecoding](https://github.com/toplap/awesome-livecoding)
+- [STRUDEL FOR BEGINNERS](https://www.youtube.com/watch?v=m7Rp46AU8dw)
+- [Tidal Cycles Workshop](https://tidalcycles.org/docs/patternlib/tutorials/workshop)
+- [Learning Hydra](https://hydra.ojack.xyz/docs/docs/learning/)
+- [Sonic Pi Tutorial](https://sonic-pi.net/tutorial.html)
+- [SuperCollider tutorial](https://composerprogrammer.com/teaching/supercollider/sctutorial/tutorial.html)
